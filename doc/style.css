@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+li{
+    list-style:none;
+
+}
+body{
+    background-color: blueviolet;
+}
+.input-container{
+    height:20vh;
+    border:5px solid;
+}
+.input-box{
+    height:20%;
+    width:70%;
+    display:block;
+    margin:0 auto;
+    margin-top:2.2rem;
+}
+.main-container{
+    font-family:'Roboto Slab',serif;
+    color: rgb(27, 123, 207);
+    text-align:center;
+}
+.action{
+    font-size:2rem;
+    text-align: center;
+}
+.task-list{
+    width: 70vw;
+    margin:0 auto;
+    padding:0;
+}
+.task{
+    font-size:1.5rem;
+    background-color: rgb(204, 130, 238);
+    width:70vw;
+}

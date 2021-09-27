@@ -1,0 +1,52 @@
+body{
+    padding:0px; 
+    margin:0px;
+    border:2px solid;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+.toolbar{
+    height:12vh;
+    width:100vw;
+    background-color: aliceblue;
+    border:2px solid red;
+    padding :3px;
+}
+
+.filter-container{
+    height:70%;
+    width:20rem;
+    border-radius: 3px;
+    background-color: aquamarine;
+    margin:0 auto;
+    display: flex;
+    align-self: center;
+
+    
+}
+
+.pink{
+    background-color: lightpink;
+}
+.blue{
+    background-color: lightblue;
+}
+.green{
+    background-color: lightgreen;
+}
+.black{
+    background-color: black;
+}
+.filter{
+    height: 90%;
+    width:22%;
+    margin-left: 8px;
+}
+.main-cointainer{
+    height:80vh;
+    width:100vw;
+    /* background-color: antiquewhite; */
+}
